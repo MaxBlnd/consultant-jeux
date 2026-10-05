@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 05/10/2026 à 02:58 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 05/10/2026 à 06:55 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
