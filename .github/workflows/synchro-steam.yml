@@ -1,0 +1,36 @@
+name: Synchronisation Steam
+
+on:
+  schedule:
+    # Tous les jours à 6 h 17 heure de Paris en été (5 h 17 en hiver). Heure exprimée en UTC.
+    - cron: "17 4 * * *"
+  # Permet de lancer la synchronisation à la main depuis l'onglet Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  synchro:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer la bibliothèque
+        env:
+          STEAM_CLE_API: ${{ secrets.STEAM_CLE_API }}
+        run: python scripts/synchro_steam.py
+
+      - name: Enregistrer le fichier dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bibliotheque.md
+          git diff --staged --quiet || git commit -m "Mise à jour de la bibliothèque Steam"
+          git push
