@@ -49,12 +49,12 @@ Généré le 2026-10-05.
 
 | Jeu | Console | Support | Remarques |
 |---|---|---|---|
-| Orbitals | à confirmer | Dématérialisé | |
+| Orbitals | Switch 2 | Dématérialisé | |
 | Mario Kart World | Switch 2 | Dématérialisé | |
 | Dragon Ball Xenoverse 2 | Switch 1 | Dématérialisé | |
 | Tomodachi Life : Une vie de rêve | Switch 1 | Dématérialisé | |
 | Crash Team Racing Nitro-Fueled | Switch 1 | Dématérialisé | |
-| Gang Beasts | à confirmer | Dématérialisé | |
+| Gang Beasts | Switch 1 | Dématérialisé | |
 
 ## Mettre à jour la liste
 
