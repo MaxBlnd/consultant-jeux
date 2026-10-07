@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 06/10/2026 à 06:48 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 07/10/2026 à 06:50 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -360,7 +360,6 @@
 | [Mistfall Hunter](https://store.steampowered.com/app/3282300) | 22,49€ | -10 % | 24,99€ | textes | 31/07/2026 |
 | [Nivalis Nights](https://store.steampowered.com/app/1488490) | 22,49€ | -10 % | 24,99€ | textes | 22/08/2026 |
 | [RimWorld - Odyssey](https://store.steampowered.com/app/3022790) | 21,14€ | -10 % | 23,49€ | textes | 25/05/2026 |
-| [Rivage](https://store.steampowered.com/app/4094660) | 22,49€ | -10 % | 24,99€ | textes | 07/06/2026 |
 | [Shift At Midnight](https://store.steampowered.com/app/3722330) | 8,99€ | -10 % | 9,99€ | textes + voix | 19/07/2026 |
 | [Songs of Glimmerwick](https://store.steampowered.com/app/1706510) | 22,94€ | -10 % | 25,49€ | textes | 08/06/2026 |
 | [Warhammer 40,000: Boltgun 2](https://store.steampowered.com/app/3115160) | 22,49€ | -10 % | 24,99€ | textes | 21/05/2026 |
@@ -423,6 +422,7 @@
 | [Puppet House](https://store.steampowered.com/app/1707710) | 16,99€ |  |  | textes | 22/03/2026 |
 | [Red Kiss](https://store.steampowered.com/app/2523380) | Pas encore sorti |  |  | non | 07/06/2026 |
 | [Risimon](https://store.steampowered.com/app/2471680) | Pas encore sorti |  |  | textes | 01/03/2025 |
+| [Rivage](https://store.steampowered.com/app/4094660) | 24,99€ |  |  | textes | 07/06/2026 |
 | [s&box](https://store.steampowered.com/app/590830) | 10,25€ |  |  | non | 25/02/2026 |
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280) | 14,99€ |  |  | non | 07/06/2026 |
 | [SILENT HILL 2](https://store.steampowered.com/app/2124490) | 69,99€ |  |  | textes | 08/08/2025 |
