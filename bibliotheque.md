@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 07/10/2026 à 06:50 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 08/10/2026 à 06:50 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -459,7 +459,6 @@
 | Jeu | Deux dernières semaines | Total |
 |---|---|---|
 | The Floor Above | 1,1 h | 1,1 h |
-| Potion Craft: Alchemist Simulator | 1 min | 1 min |
 | I'm on Observation Duty 2 | 1 min | 1,8 h |
 
 ## Jeux lancés (du plus joué au moins joué)
