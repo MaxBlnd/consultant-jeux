@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 10/10/2026 à 06:49 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 11/10/2026 à 06:48 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -15,6 +15,8 @@
 
 | Jeu | Prix actuel | Réduction | Prix normal | Français | Ajouté le |
 |---|---|---|---|---|---|
+| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 2,99€ | -90 % | 29,99€ | textes | 24/08/2026 |
+| [Death's Door](https://store.steampowered.com/app/894020) | 1,95€ | -90 % | 19,50€ | textes | 04/10/2026 |
 | [Old World](https://store.steampowered.com/app/597180) | 3,99€ | -90 % | 39,99€ | textes | 23/05/2026 |
 | [Two Point Campus](https://store.steampowered.com/app/1649080) | 2,99€ | -90 % | 29,99€ | textes | 27/12/2025 |
 | [CONTROL Ultimate Edition](https://store.steampowered.com/app/870780) | 5,99€ | -85 % | 39,99€ | textes + voix | 05/10/2025 |
@@ -26,6 +28,7 @@
 | [ENDLESS Space™ 2](https://store.steampowered.com/app/392110) | 9,99€ | -75 % | 39,99€ | textes | 21/05/2026 |
 | [Monster Sanctuary](https://store.steampowered.com/app/814370) | 7,49€ | -75 % | 29,99€ | textes | 22/10/2025 |
 | [Operation: Tango](https://store.steampowered.com/app/1335790) | 6,12€ | -75 % | 24,49€ | textes + voix | 25/11/2025 |
+| [Star Overdrive](https://store.steampowered.com/app/2055590) | 8,74€ | -75 % | 34,99€ | textes | 03/06/2025 |
 | [The Last Spell](https://store.steampowered.com/app/1105670) | 6,24€ | -75 % | 24,99€ | textes | 22/03/2026 |
 | [Total War: ROME REMASTERED](https://store.steampowered.com/app/885970) | 7,49€ | -75 % | 29,99€ | textes + voix | 23/05/2026 |
 | [Harold Halibut](https://store.steampowered.com/app/924750) | 9,79€ | -72 % | 34,99€ | textes | 29/06/2024 |
@@ -49,6 +52,7 @@
 | [Dread Delusion](https://store.steampowered.com/app/1574240) | 8,39€ | -50 % | 16,79€ | non | 08/06/2026 |
 | [Rogue Point](https://store.steampowered.com/app/1843840) | 12,49€ | -50 % | 24,99€ | textes | 02/01/2026 |
 | [SHINOBI: Art of Vengeance](https://store.steampowered.com/app/2361770) | 14,99€ | -50 % | 29,99€ | textes | 07/04/2025 |
+| [Sid Meier's Civilization VII](https://store.steampowered.com/app/1295660) | 49,99€ | -50 % | 99,99€ | textes + voix | 12/01/2025 |
 | [Stray](https://store.steampowered.com/app/1332010) | 14,24€ | -50 % | 28,49€ | textes | 13/11/2025 |
 | [Hello Kitty Island Adventure](https://store.steampowered.com/app/2495100) | 21,99€ | -45 % | 39,99€ | textes | 31/05/2026 |
 | [Lost Records: Bloom & Rage](https://store.steampowered.com/app/1902960) | 21,99€ | -45 % | 39,99€ | textes + voix | 15/08/2026 |
@@ -59,7 +63,9 @@
 | [Rusty's Retirement](https://store.steampowered.com/app/2666510) | 4,19€ | -40 % | 6,99€ | textes + voix | 29/06/2024 |
 | [Shredders](https://store.steampowered.com/app/1874170) | 17,99€ | -40 % | 29,99€ | textes | 09/12/2025 |
 | [Verho - Curse of Faces](https://store.steampowered.com/app/3017330) | 11,99€ | -40 % | 19,99€ | textes | 07/06/2026 |
+| [EverSiege: Untold Ages](https://store.steampowered.com/app/3363680) | 12,99€ | -35 % | 19,99€ | textes | 03/06/2025 |
 | [Guilty as Sock!](https://store.steampowered.com/app/3400930) | 3,57€ | -35 % | 5,50€ | textes | 21/09/2026 |
+| [Manor Lords](https://store.steampowered.com/app/1363080) | 25,99€ | -35 % | 39,99€ | textes | 30/05/2026 |
 | [Sandustry](https://store.steampowered.com/app/2764460) | 9,74€ | -35 % | 14,99€ | textes | 15/08/2026 |
 | [The Operator](https://store.steampowered.com/app/1771980) | 8,96€ | -35 % | 13,79€ | textes | 19/07/2026 |
 | [gogh: Focus with Your Avatar](https://store.steampowered.com/app/3213850) | 7,89€ | -33 % | 11,79€ | textes | 09/07/2026 |
@@ -71,7 +77,6 @@
 | [Abiotic Factor](https://store.steampowered.com/app/427410) | 27,19€ | -20 % | 33,99€ | textes | 29/06/2024 |
 | [Clair Obscur: Expedition 33](https://store.steampowered.com/app/1903340) | 47,99€ | -20 % | 59,99€ | textes + voix | 23/04/2025 |
 | [Dinkum](https://store.steampowered.com/app/1062520) | 15,60€ | -20 % | 19,50€ | textes | 20/03/2026 |
-| [Dwarf Fortress](https://store.steampowered.com/app/975370) | 24,39€ | -20 % | 30,49€ | non | 08/06/2026 |
 | [PAPERHEAD](https://store.steampowered.com/app/2680280) | 15,99€ | -20 % | 19,99€ | textes | 01/03/2026 |
 | [Paralives](https://store.steampowered.com/app/1118520) | 31,19€ | -20 % | 38,99€ | textes | 22/06/2024 |
 | [Romestead](https://store.steampowered.com/app/1805320) | 11,19€ | -20 % | 13,99€ | textes | 26/05/2026 |
@@ -125,7 +130,6 @@
 | [Chernobylite Complete Edition](https://store.steampowered.com/app/1016800) | 29,99€ |  |  | textes | 24/06/2026 |
 | [Chill Pulse](https://store.steampowered.com/app/2826180) | 4,99€ |  |  | textes | 22/04/2025 |
 | [Chronicon](https://store.steampowered.com/app/375480) | 13,79€ |  |  | textes | 02/01/2026 |
-| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 29,99€ |  |  | textes | 24/08/2026 |
 | [Clock Tower: Rewind](https://store.steampowered.com/app/2794770) | 19,50€ |  |  | textes | 25/04/2025 |
 | [Color Fear](https://store.steampowered.com/app/2831170) | Pas encore sorti |  |  | non | 26/07/2026 |
 | [Coridden](https://store.steampowered.com/app/1656930) | 19,50€ |  |  | textes | 21/12/2025 |
@@ -141,7 +145,6 @@
 | [Deadly Days: Roadtrip](https://store.steampowered.com/app/3026450) | 14,99€ |  |  | textes | 04/01/2026 |
 | [Deadly Premonition 2: A Blessing in Disguise](https://store.steampowered.com/app/1271100) | 39,99€ |  |  | textes | 02/06/2025 |
 | [DEATH STRANDING DIRECTOR'S CUT](https://store.steampowered.com/app/1850570) | 39,99€ |  |  | textes + voix | 07/04/2025 |
-| [Death's Door](https://store.steampowered.com/app/894020) | 19,50€ |  |  | textes | 04/10/2026 |
 | [DELTARUNE](https://store.steampowered.com/app/1671210) | 23,99€ |  |  | non | 04/06/2025 |
 | [Demise Sanctuary](https://store.steampowered.com/app/1945770) | Pas encore sorti |  |  | non | 06/06/2024 |
 | [Demonologist](https://store.steampowered.com/app/1929610) | 19,50€ |  |  | textes | 08/08/2025 |
@@ -167,6 +170,7 @@
 | [DUSK](https://store.steampowered.com/app/519860) | 19,49€ |  |  | textes | 16/08/2025 |
 | [Duskers](https://store.steampowered.com/app/254320) | 19,99€ |  |  | non | 07/06/2026 |
 | [Duskers 2.0](https://store.steampowered.com/app/2211630) | Pas encore sorti |  |  | non | 07/06/2026 |
+| [Dwarf Fortress](https://store.steampowered.com/app/975370) | 30,49€ |  |  | non | 08/06/2026 |
 | [Dying Light](https://store.steampowered.com/app/239140) | 24,99€ |  |  | textes + voix | 22/04/2025 |
 | [Echoes of Aincrad](https://store.steampowered.com/app/2244210) | 69,99€ |  |  | textes | 18/06/2026 |
 | [Eclipsium](https://store.steampowered.com/app/2419670) | 12,79€ |  |  | textes | 04/01/2026 |
@@ -182,7 +186,6 @@
 | [Escape Simulator 2](https://store.steampowered.com/app/2879840) | 16,99€ |  |  | textes | 31/05/2026 |
 | [Eternal Strands](https://store.steampowered.com/app/1491410) | 29,99€ |  |  | textes + voix | 05/01/2026 |
 | [Euro Truck Simulator 2](https://store.steampowered.com/app/227300) | 19,99€ |  |  | textes | 22/06/2025 |
-| [EverSiege: Untold Ages](https://store.steampowered.com/app/3363680) | 19,99€ |  |  | textes | 03/06/2025 |
 | [FANTASY LIFE i : La voleuse de temps](https://store.steampowered.com/app/2993780) | 59,99€ |  |  | textes | 23/11/2025 |
 | [Far Cry® 4](https://store.steampowered.com/app/298110) | 29,99€ |  |  | textes + voix | 26/02/2026 |
 | [Far Cry® Primal](https://store.steampowered.com/app/371660) | 29,99€ |  |  | textes | 01/03/2026 |
@@ -269,7 +272,6 @@
 | [Luma Island](https://store.steampowered.com/app/2408820) | 19,99€ |  |  | textes | 23/11/2025 |
 | [LumenTale: Memories of Trey](https://store.steampowered.com/app/2261430) | 24,99€ |  |  | textes | 26/05/2026 |
 | [Lunacid](https://store.steampowered.com/app/1745510) | 13,79€ |  |  | non | 22/03/2026 |
-| [Manor Lords](https://store.steampowered.com/app/1363080) | 39,99€ |  |  | textes | 30/05/2026 |
 | [Marco et le dragon-galaxie](https://store.steampowered.com/app/1202540) | 19,50€ |  |  | non | 04/05/2021 |
 | [Marvel’s Spider-Man Remastered](https://store.steampowered.com/app/1817070) | 59,99€ |  |  | textes + voix | 06/04/2025 |
 | [Mass Effect™ Édition Légendaire](https://store.steampowered.com/app/1328670) | 59,99€ |  |  | textes + voix | 11/01/2026 |
@@ -359,7 +361,6 @@
 | [Shin Megami Tensei V: Vengeance](https://store.steampowered.com/app/1875830) | 59,99€ |  |  | textes | 18/06/2026 |
 | [Shovel Knight: Treasure Trove](https://store.steampowered.com/app/250760) | 39,99€ |  |  | textes | 21/01/2023 |
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280) | 14,99€ |  |  | non | 07/06/2026 |
-| [Sid Meier's Civilization VII](https://store.steampowered.com/app/1295660) | 69,99€ |  |  | textes + voix | 12/01/2025 |
 | [SILENT HILL 2](https://store.steampowered.com/app/2124490) | 69,99€ |  |  | textes | 08/08/2025 |
 | [Simulateur de Carte Fantasy](https://store.steampowered.com/app/3035500) | 7,79€ |  |  | textes + voix | 05/06/2026 |
 | [Sledding Game](https://store.steampowered.com/app/3438850) | 7,49€ |  |  | textes | 15/08/2026 |
@@ -369,7 +370,6 @@
 | [Sonic Racing: CrossWorlds](https://store.steampowered.com/app/2486820) | 39,99€ |  |  | textes + voix | 20/08/2025 |
 | [Soulframe](https://store.steampowered.com/app/4095380) | Gratuit |  |  | textes | 01/08/2026 |
 | [Split Fiction](https://store.steampowered.com/app/2001120) | 49,99€ |  |  | textes + voix | 09/11/2025 |
-| [Star Overdrive](https://store.steampowered.com/app/2055590) | 34,99€ |  |  | textes | 03/06/2025 |
 | [STAR WARS Zero Company™](https://store.steampowered.com/app/2075800) | 49,99€ |  |  | textes | 22/08/2026 |
 | [STAR WARS: Galactic Racer™](https://store.steampowered.com/app/4078430) | 59,99€ |  |  | textes | 19/08/2026 |
 | [Starbound](https://store.steampowered.com/app/211820) | 14,99€ |  |  | non | 28/06/2024 |
