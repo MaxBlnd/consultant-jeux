@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 11/10/2026 à 06:48 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 12/10/2026 à 06:52 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -60,6 +60,7 @@
 | [BOMBANANA!](https://store.steampowered.com/app/4656000) | 4,89€ | -40 % | 8,15€ | textes | 03/09/2026 |
 | [Dead of Darkness](https://store.steampowered.com/app/2157210) | 9,29€ | -40 % | 15,49€ | textes | 31/12/2025 |
 | [Foundation](https://store.steampowered.com/app/690830) | 20,39€ | -40 % | 33,99€ | textes | 23/05/2026 |
+| [LEGO® Voyagers](https://store.steampowered.com/app/1538550) | 14,99€ | -40 % | 24,99€ | textes | 26/10/2025 |
 | [Rusty's Retirement](https://store.steampowered.com/app/2666510) | 4,19€ | -40 % | 6,99€ | textes + voix | 29/06/2024 |
 | [Shredders](https://store.steampowered.com/app/1874170) | 17,99€ | -40 % | 29,99€ | textes | 09/12/2025 |
 | [Verho - Curse of Faces](https://store.steampowered.com/app/3017330) | 11,99€ | -40 % | 19,99€ | textes | 07/06/2026 |
@@ -74,12 +75,15 @@
 | [Arctic Awakening](https://store.steampowered.com/app/1275550) | 18,74€ | -25 % | 24,99€ | textes | 29/06/2024 |
 | [Duskfade](https://store.steampowered.com/app/2542020) | 22,49€ | -25 % | 29,99€ | textes | 16/01/2026 |
 | [Esoteric Ebb](https://store.steampowered.com/app/2057760) | 18,74€ | -25 % | 24,99€ | non | 15/05/2026 |
+| [Travellers Rest](https://store.steampowered.com/app/1139980) | 13,49€ | -25 % | 17,99€ | textes | 25/06/2026 |
+| [Vampire Survivors](https://store.steampowered.com/app/1794680) | 3,74€ | -25 % | 4,99€ | textes | 25/08/2025 |
 | [Abiotic Factor](https://store.steampowered.com/app/427410) | 27,19€ | -20 % | 33,99€ | textes | 29/06/2024 |
 | [Clair Obscur: Expedition 33](https://store.steampowered.com/app/1903340) | 47,99€ | -20 % | 59,99€ | textes + voix | 23/04/2025 |
 | [Dinkum](https://store.steampowered.com/app/1062520) | 15,60€ | -20 % | 19,50€ | textes | 20/03/2026 |
 | [PAPERHEAD](https://store.steampowered.com/app/2680280) | 15,99€ | -20 % | 19,99€ | textes | 01/03/2026 |
 | [Paralives](https://store.steampowered.com/app/1118520) | 31,19€ | -20 % | 38,99€ | textes | 22/06/2024 |
 | [Romestead](https://store.steampowered.com/app/1805320) | 11,19€ | -20 % | 13,99€ | textes | 26/05/2026 |
+| [Truck-kun is Supporting Me from Another World?!](https://store.steampowered.com/app/3642010) | 15,19€ | -20 % | 18,99€ | non | 18/08/2026 |
 | [Voidling Bound](https://store.steampowered.com/app/2004680) | 20,39€ | -20 % | 25,49€ | textes + voix | 26/06/2026 |
 | [Nivalis Nights](https://store.steampowered.com/app/1488490) | 22,49€ | -10 % | 24,99€ | textes | 22/08/2026 |
 | [Songs of Glimmerwick](https://store.steampowered.com/app/1706510) | 22,94€ | -10 % | 25,49€ | textes | 08/06/2026 |
@@ -255,7 +259,6 @@
 | [LEGO® Party!](https://store.steampowered.com/app/1969370) | 36,99€ |  |  | textes + voix | 07/12/2025 |
 | [LEGO® Skylines](https://store.steampowered.com/app/1573550) | Pas encore sorti |  |  | textes | 26/08/2026 |
 | [LEGO® Star Wars™ - The Complete Saga](https://store.steampowered.com/app/32440) | 19,50€ |  |  | textes | 08/05/2026 |
-| [LEGO® Voyagers](https://store.steampowered.com/app/1538550) | 24,99€ |  |  | textes | 26/10/2025 |
 | [LEGO® Worlds](https://store.steampowered.com/app/332310) | 29,99€ |  |  | textes + voix | 03/06/2015 |
 | [Librarian: Tidy Up the Arcane Library!](https://store.steampowered.com/app/4197610) | 6,15€ |  |  | non | 25/06/2026 |
 | [Life is Strange - Episode 1](https://store.steampowered.com/app/319630) | Gratuit |  |  | textes | 06/06/2025 |
@@ -423,9 +426,7 @@
 | [Tower Unite](https://store.steampowered.com/app/394690) | 19,50€ |  |  | non | 22/04/2025 |
 | [Trails in the Sky 1st Chapter](https://store.steampowered.com/app/3375780) | 59,99€ |  |  | textes | 31/08/2025 |
 | [Transport INC](https://store.steampowered.com/app/936500) | 9,99€ |  |  | textes | 27/07/2025 |
-| [Travellers Rest](https://store.steampowered.com/app/1139980) | 17,99€ |  |  | textes | 25/06/2026 |
 | [TRIANGLE STRATEGY](https://store.steampowered.com/app/1850510) | 59,99€ |  |  | textes | 07/04/2025 |
-| [Truck-kun is Supporting Me from Another World?!](https://store.steampowered.com/app/3642010) | 18,99€ |  |  | non | 18/08/2026 |
 | [TUNIC](https://store.steampowered.com/app/553420) | 28,99€ |  |  | textes + voix | 30/07/2026 |
 | [Turing Complete](https://store.steampowered.com/app/1444480) | 20,49€ |  |  | textes | 01/06/2025 |
 | [Tyranny](https://store.steampowered.com/app/362960) | 29,99€ |  |  | textes | 02/01/2026 |
@@ -437,7 +438,6 @@
 | [Use Your Words](https://store.steampowered.com/app/521350) | 12,99€ |  |  | textes + voix | 11/01/2026 |
 | [Use Your Words 2](https://store.steampowered.com/app/3188960) | 14,49€ |  |  | textes + voix | 11/01/2026 |
 | [Vampire Hunters](https://store.steampowered.com/app/2206270) | 14,79€ |  |  | textes | 18/08/2025 |
-| [Vampire Survivors](https://store.steampowered.com/app/1794680) | 4,99€ |  |  | textes | 25/08/2025 |
 | [Vivarium](https://store.steampowered.com/app/4735760) | Pas encore sorti |  |  | non | 16/09/2026 |
 | [Voyagers of Nera](https://store.steampowered.com/app/2686630) | 29,99€ |  |  | textes | 01/09/2026 |
 | [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750) | 28,49€ |  |  | textes + voix | 25/05/2026 |
@@ -459,7 +459,6 @@
 
 | Jeu | Deux dernières semaines | Total |
 |---|---|---|
-| The Floor Above | 1,1 h | 1,1 h |
 | I'm on Observation Duty 2 | 1 min | 1,8 h |
 
 ## Jeux lancés (du plus joué au moins joué)
