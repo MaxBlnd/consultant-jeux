@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 14/10/2026 à 07:05 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 15/10/2026 à 07:04 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -51,6 +51,7 @@
 | [Nova Lands](https://store.steampowered.com/app/1501610) | 8,99€ | -55 % | 19,99€ | textes | 21/07/2024 |
 | [SKALD: Against the Black Priory](https://store.steampowered.com/app/1069160) | 6,74€ | -55 % | 14,99€ | non | 22/03/2026 |
 | [Alaloth: Champions of The Four Kingdoms](https://store.steampowered.com/app/919360) | 17,49€ | -50 % | 34,99€ | textes | 22/03/2026 |
+| [Chants of Sennaar](https://store.steampowered.com/app/1931770) | 9,99€ | -50 % | 19,99€ | textes | 30/07/2026 |
 | [clickyland](https://store.steampowered.com/app/2751050) | 2,49€ | -50 % | 4,99€ | textes | 05/07/2024 |
 | [DEATH NOTE Killer Within](https://store.steampowered.com/app/2213190) | 4,99€ | -50 % | 9,99€ | textes | 28/06/2026 |
 | [Dread Delusion](https://store.steampowered.com/app/1574240) | 8,39€ | -50 % | 16,79€ | non | 08/06/2026 |
@@ -94,8 +95,6 @@
 | [Shovel Knight: Treasure Trove](https://store.steampowered.com/app/250760) | 31,99€ | -20 % | 39,99€ | textes | 21/01/2023 |
 | [Truck-kun is Supporting Me from Another World?!](https://store.steampowered.com/app/3642010) | 15,19€ | -20 % | 18,99€ | non | 18/08/2026 |
 | [Voidling Bound](https://store.steampowered.com/app/2004680) | 20,39€ | -20 % | 25,49€ | textes + voix | 26/06/2026 |
-| [Songs of Glimmerwick](https://store.steampowered.com/app/1706510) | 22,94€ | -10 % | 25,49€ | textes | 08/06/2026 |
-| [Warhammer 40,000: Boltgun 2](https://store.steampowered.com/app/3115160) | 22,49€ | -10 % | 24,99€ | textes | 21/05/2026 |
 | [(the) Gnorp Apologue](https://store.steampowered.com/app/1473350) | 5,69€ |  |  | textes | 29/06/2024 |
 | [A Hat in Time](https://store.steampowered.com/app/253230) | 28,99€ |  |  | textes | 21/01/2023 |
 | [A Story About My Uncle](https://store.steampowered.com/app/278360) | 14,99€ |  |  | textes | 17/04/2025 |
@@ -137,7 +136,6 @@
 | [Cat Parents](https://store.steampowered.com/app/4328440) | Pas encore sorti |  |  | textes | 22/03/2026 |
 | [Catherine Classic](https://store.steampowered.com/app/893180) | 19,99€ |  |  | textes | 29/08/2025 |
 | [Chained Echoes](https://store.steampowered.com/app/1229240) | 24,99€ |  |  | textes | 31/08/2025 |
-| [Chants of Sennaar](https://store.steampowered.com/app/1931770) | 19,99€ |  |  | textes | 30/07/2026 |
 | [Chill Pulse](https://store.steampowered.com/app/2826180) | 4,99€ |  |  | textes | 22/04/2025 |
 | [Chronicon](https://store.steampowered.com/app/375480) | 13,79€ |  |  | textes | 02/01/2026 |
 | [Clock Tower: Rewind](https://store.steampowered.com/app/2794770) | 19,50€ |  |  | textes | 25/04/2025 |
@@ -368,6 +366,7 @@
 | [Sledding Game](https://store.steampowered.com/app/3438850) | 7,49€ |  |  | textes | 15/08/2026 |
 | [Slime Rancher](https://store.steampowered.com/app/433340) | 18,99€ |  |  | textes | 07/04/2025 |
 | [Smalland: Survive the Wilds](https://store.steampowered.com/app/768200) | 34,99€ |  |  | textes | 07/08/2026 |
+| [Songs of Glimmerwick](https://store.steampowered.com/app/1706510) | 25,49€ |  |  | textes | 08/06/2026 |
 | [Sonic & All-Stars Racing Transformed Collection](https://store.steampowered.com/app/212480) | 19,99€ |  |  | textes + voix | 22/04/2025 |
 | [Sonic Racing: CrossWorlds](https://store.steampowered.com/app/2486820) | 39,99€ |  |  | textes + voix | 20/08/2025 |
 | [Soulframe](https://store.steampowered.com/app/4095380) | Gratuit |  |  | textes | 01/08/2026 |
@@ -439,6 +438,7 @@
 | [Vampire Hunters](https://store.steampowered.com/app/2206270) | 14,79€ |  |  | textes | 18/08/2025 |
 | [Vivarium](https://store.steampowered.com/app/4735760) | Pas encore sorti |  |  | non | 16/09/2026 |
 | [Voyagers of Nera](https://store.steampowered.com/app/2686630) | 29,99€ |  |  | textes | 01/09/2026 |
+| [Warhammer 40,000: Boltgun 2](https://store.steampowered.com/app/3115160) | 24,99€ |  |  | textes | 21/05/2026 |
 | [Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750) | 28,49€ |  |  | textes + voix | 25/05/2026 |
 | [Wartales](https://store.steampowered.com/app/1527950) | 34,99€ |  |  | textes | 08/07/2026 |
 | [Wayfinder](https://store.steampowered.com/app/1171690) | 24,50€ |  |  | textes + voix | 22/08/2026 |
@@ -458,7 +458,7 @@
 
 | Jeu | Deux dernières semaines | Total |
 |---|---|---|
-| Paralives | 1,2 h | 1,2 h |
+| Paralives | 1,3 h | 1,3 h |
 
 ## Jeux lancés (du plus joué au moins joué)
 
@@ -600,8 +600,8 @@
 | The Upturned | 1,4 h | — | 01/02/2025 |
 | Resident Evil Requiem | 1,3 h | — | 13/05/2026 |
 | Two Point Hospital | 1,3 h | 1,3 h | 24/01/2026 |
+| Paralives | 1,3 h | — | 14/10/2026 |
 | Team Fortress 2 | 1,2 h | — | 16/01/2015 |
-| Paralives | 1,2 h | — | 13/10/2026 |
 | The Guild 3 | 1,2 h | — | 22/05/2026 |
 | STAR WARS™: The Force Unleashed™ Ultimate Sith Edition | 1,1 h | — | 07/02/2016 |
 | Crow Country | 1,1 h | — | 28/12/2025 |
