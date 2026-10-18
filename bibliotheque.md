@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 17/10/2026 à 07:02 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 18/10/2026 à 07:03 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -15,8 +15,6 @@
 
 | Jeu | Prix actuel | Réduction | Prix normal | Français | Ajouté le |
 |---|---|---|---|---|---|
-| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 1,99€ | -90 % | 19,99€ | textes | 24/08/2026 |
-| [Death's Door](https://store.steampowered.com/app/894020) | 1,95€ | -90 % | 19,50€ | textes | 04/10/2026 |
 | [LEGO® Worlds](https://store.steampowered.com/app/332310) | 2,99€ | -90 % | 29,99€ | textes + voix | 03/06/2015 |
 | [Middle-earth™: Shadow of War™](https://store.steampowered.com/app/356190) | 3,99€ | -90 % | 39,99€ | textes + voix | 02/01/2026 |
 | [Old World](https://store.steampowered.com/app/597180) | 3,99€ | -90 % | 39,99€ | textes | 23/05/2026 |
@@ -135,6 +133,7 @@
 | [Chained Echoes](https://store.steampowered.com/app/1229240) | 24,99€ |  |  | textes | 31/08/2025 |
 | [Chill Pulse](https://store.steampowered.com/app/2826180) | 4,99€ |  |  | textes | 22/04/2025 |
 | [Chronicon](https://store.steampowered.com/app/375480) | 13,79€ |  |  | textes | 02/01/2026 |
+| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 19,99€ |  |  | textes | 24/08/2026 |
 | [Clock Tower: Rewind](https://store.steampowered.com/app/2794770) | 19,50€ |  |  | textes | 25/04/2025 |
 | [Color Fear](https://store.steampowered.com/app/2831170) | Pas encore sorti |  |  | non | 26/07/2026 |
 | [Coridden](https://store.steampowered.com/app/1656930) | 19,50€ |  |  | textes | 21/12/2025 |
@@ -150,6 +149,7 @@
 | [Deadly Days: Roadtrip](https://store.steampowered.com/app/3026450) | 14,99€ |  |  | textes | 04/01/2026 |
 | [Deadly Premonition 2: A Blessing in Disguise](https://store.steampowered.com/app/1271100) | 39,99€ |  |  | textes | 02/06/2025 |
 | [DEATH STRANDING DIRECTOR'S CUT](https://store.steampowered.com/app/1850570) | 39,99€ |  |  | textes + voix | 07/04/2025 |
+| [Death's Door](https://store.steampowered.com/app/894020) | 19,50€ |  |  | textes | 04/10/2026 |
 | [DELTARUNE](https://store.steampowered.com/app/1671210) | 23,99€ |  |  | non | 04/06/2025 |
 | [Demise Sanctuary](https://store.steampowered.com/app/1945770) | Pas encore sorti |  |  | non | 06/06/2024 |
 | [Demonologist](https://store.steampowered.com/app/1929610) | 19,50€ |  |  | textes | 08/08/2025 |
