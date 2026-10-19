@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 18/10/2026 à 07:03 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 19/10/2026 à 07:07 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -8,7 +8,7 @@
 - Jeux possédés : 306
 - Jamais lancés : 99
 - Lancés moins d'une heure : 58
-- Temps de jeu total : 3948,6 h
+- Temps de jeu total : 3949,3 h
 - Jeux dans la liste de souhaits : 439
 
 ## Liste de souhaits
@@ -46,7 +46,6 @@
 | [SULFUR](https://store.steampowered.com/app/2124120) | 9,80€ | -60 % | 24,50€ | textes | 07/06/2026 |
 | [Nova Lands](https://store.steampowered.com/app/1501610) | 8,99€ | -55 % | 19,99€ | textes | 21/07/2024 |
 | [SKALD: Against the Black Priory](https://store.steampowered.com/app/1069160) | 6,74€ | -55 % | 14,99€ | non | 22/03/2026 |
-| [Alaloth: Champions of The Four Kingdoms](https://store.steampowered.com/app/919360) | 17,49€ | -50 % | 34,99€ | textes | 22/03/2026 |
 | [Chants of Sennaar](https://store.steampowered.com/app/1931770) | 9,99€ | -50 % | 19,99€ | textes | 30/07/2026 |
 | [clickyland](https://store.steampowered.com/app/2751050) | 2,49€ | -50 % | 4,99€ | textes | 05/07/2024 |
 | [DEATH NOTE Killer Within](https://store.steampowered.com/app/2213190) | 4,99€ | -50 % | 9,99€ | textes | 28/06/2026 |
@@ -58,7 +57,6 @@
 | [Hello Kitty Island Adventure](https://store.steampowered.com/app/2495100) | 21,99€ | -45 % | 39,99€ | textes | 31/05/2026 |
 | [Lost Records: Bloom & Rage](https://store.steampowered.com/app/1902960) | 21,99€ | -45 % | 39,99€ | textes + voix | 15/08/2026 |
 | [BOMBANANA!](https://store.steampowered.com/app/4656000) | 4,89€ | -40 % | 8,15€ | textes | 03/09/2026 |
-| [Dead of Darkness](https://store.steampowered.com/app/2157210) | 9,29€ | -40 % | 15,49€ | textes | 31/12/2025 |
 | [Foundation](https://store.steampowered.com/app/690830) | 20,39€ | -40 % | 33,99€ | textes | 23/05/2026 |
 | [LEGO® Voyagers](https://store.steampowered.com/app/1538550) | 14,99€ | -40 % | 24,99€ | textes | 26/10/2025 |
 | [Rusty's Retirement](https://store.steampowered.com/app/2666510) | 4,19€ | -40 % | 6,99€ | textes + voix | 29/06/2024 |
@@ -96,6 +94,7 @@
 | [Age of Reforging: The Freelands](https://store.steampowered.com/app/1161830) | 28,99€ |  |  | textes | 25/07/2026 |
 | [Age of Wonders 4](https://store.steampowered.com/app/1669000) | 49,99€ |  |  | textes | 21/05/2026 |
 | [Agent 64: Spies Never Die](https://store.steampowered.com/app/1574480) | 21,64€ |  |  | textes | 19/07/2026 |
+| [Alaloth: Champions of The Four Kingdoms](https://store.steampowered.com/app/919360) | 34,99€ |  |  | textes | 22/03/2026 |
 | [Alkahest](https://store.steampowered.com/app/3016620) | Pas encore sorti |  |  | textes | 01/03/2026 |
 | [Among Ashes](https://store.steampowered.com/app/2430900) | 14,79€ |  |  | textes | 22/03/2026 |
 | [Anno 1701 History Edition](https://store.steampowered.com/app/2820140) | 9,99€ |  |  | textes + voix | 23/05/2026 |
@@ -145,6 +144,7 @@
 | [Dark Island: Faded Memories](https://store.steampowered.com/app/3332120) | Pas encore sorti |  |  | textes | 26/07/2026 |
 | [Dead Cells](https://store.steampowered.com/app/588650) | 24,99€ |  |  | textes + voix | 06/04/2025 |
 | [Dead Meat](https://store.steampowered.com/app/2628740) | Pas encore sorti |  |  | non | 24/09/2026 |
+| [Dead of Darkness](https://store.steampowered.com/app/2157210) | 15,49€ |  |  | textes | 31/12/2025 |
 | [DeadCore](https://store.steampowered.com/app/284460) | 9,99€ |  |  | textes | 17/04/2025 |
 | [Deadly Days: Roadtrip](https://store.steampowered.com/app/3026450) | 14,99€ |  |  | textes | 04/01/2026 |
 | [Deadly Premonition 2: A Blessing in Disguise](https://store.steampowered.com/app/1271100) | 39,99€ |  |  | textes | 02/06/2025 |
@@ -459,7 +459,7 @@
 
 | Jeu | Deux dernières semaines | Total |
 |---|---|---|
-| Paralives | 1,3 h | 1,3 h |
+| Paralives | 1,9 h | 1,9 h |
 
 ## Jeux lancés (du plus joué au moins joué)
 
@@ -582,6 +582,7 @@
 | Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer | 2,0 h | — | 14/10/2019 |
 | Undertale | 2,0 h | — | 01/01/2025 |
 | STAR WARS™ Empire at War: Gold Pack | 2,0 h | — | 14/05/2026 |
+| Paralives | 1,9 h | — | 18/10/2026 |
 | Dragon's Dogma: Dark Arisen | 1,9 h | — | 11/01/2026 |
 | BattleBit Remastered | 1,9 h | — | 20/03/2024 |
 | PAYDAY 2 | 1,9 h | — | 18/10/2014 |
@@ -601,7 +602,6 @@
 | The Upturned | 1,4 h | — | 01/02/2025 |
 | Resident Evil Requiem | 1,3 h | — | 13/05/2026 |
 | Two Point Hospital | 1,3 h | 1,3 h | 24/01/2026 |
-| Paralives | 1,3 h | — | 14/10/2026 |
 | Team Fortress 2 | 1,2 h | — | 16/01/2015 |
 | The Guild 3 | 1,2 h | — | 22/05/2026 |
 | STAR WARS™: The Force Unleashed™ Ultimate Sith Edition | 1,1 h | — | 07/02/2016 |
