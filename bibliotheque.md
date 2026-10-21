@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 20/10/2026 à 07:04 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 21/10/2026 à 07:05 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -38,7 +38,9 @@
 | [Bendy and the Ink Machine](https://store.steampowered.com/app/622650) | 5,54€ | -70 % | 18,49€ | textes | 28/12/2025 |
 | [Cataclismo](https://store.steampowered.com/app/1422440) | 8,99€ | -70 % | 29,99€ | textes | 18/07/2024 |
 | [American Arcadia](https://store.steampowered.com/app/1249040) | 7,80€ | -60 % | 19,50€ | textes | 09/04/2025 |
+| [Forever Skies](https://store.steampowered.com/app/1641960) | 11,59€ | -60 % | 28,99€ | textes | 09/06/2025 |
 | [Haven](https://store.steampowered.com/app/983970) | 9,99€ | -60 % | 24,99€ | textes | 22/12/2025 |
+| [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920) | 9,19€ | -60 % | 22,99€ | textes | 29/03/2026 |
 | [Neon White](https://store.steampowered.com/app/1533420) | 9,51€ | -60 % | 23,79€ | textes | 17/04/2025 |
 | [Pacific Drive](https://store.steampowered.com/app/1458140) | 17,99€ | -60 % | 44,99€ | textes | 29/06/2024 |
 | [Street Fighter™ 6](https://store.steampowered.com/app/1364780) | 15,99€ | -60 % | 39,99€ | textes | 02/01/2026 |
@@ -55,6 +57,7 @@
 | [Lost Records: Bloom & Rage](https://store.steampowered.com/app/1902960) | 21,99€ | -45 % | 39,99€ | textes + voix | 15/08/2026 |
 | [BOMBANANA!](https://store.steampowered.com/app/4656000) | 4,89€ | -40 % | 8,15€ | textes | 03/09/2026 |
 | [LEGO® Voyagers](https://store.steampowered.com/app/1538550) | 14,99€ | -40 % | 24,99€ | textes | 26/10/2025 |
+| [Mouthwashing](https://store.steampowered.com/app/2475490) | 7,67€ | -40 % | 12,79€ | textes | 15/06/2026 |
 | [Rusty's Retirement](https://store.steampowered.com/app/2666510) | 4,19€ | -40 % | 6,99€ | textes + voix | 29/06/2024 |
 | [Shredders](https://store.steampowered.com/app/1874170) | 17,99€ | -40 % | 29,99€ | textes | 09/12/2025 |
 | [Verho - Curse of Faces](https://store.steampowered.com/app/3017330) | 11,99€ | -40 % | 19,99€ | textes | 07/06/2026 |
@@ -66,7 +69,9 @@
 | [The Operator](https://store.steampowered.com/app/1771980) | 8,96€ | -35 % | 13,79€ | textes | 19/07/2026 |
 | [Sol Cesto](https://store.steampowered.com/app/2738490) | 9,37€ | -33 % | 13,99€ | textes | 30/05/2025 |
 | [Vampires: Bloodlord Rising](https://store.steampowered.com/app/2191500) | 13,39€ | -33 % | 19,99€ | textes | 27/01/2026 |
+| [CARIMARA: Beneath the forlorn limbs](https://store.steampowered.com/app/3570370) | 3,49€ | -30 % | 4,99€ | textes + voix | 28/06/2026 |
 | [Drive Beyond Horizons](https://store.steampowered.com/app/2625420) | 17,15€ | -30 % | 24,50€ | textes | 27/04/2025 |
+| [Eclipsium](https://store.steampowered.com/app/2419670) | 8,95€ | -30 % | 12,79€ | textes | 04/01/2026 |
 | [It Has My Face](https://store.steampowered.com/app/2506530) | 6,64€ | -30 % | 9,49€ | textes | 31/12/2025 |
 | [Stoneshard](https://store.steampowered.com/app/625960) | 17,49€ | -30 % | 24,99€ | textes | 15/06/2025 |
 | [Tainted Grail: The Fall of Avalon](https://store.steampowered.com/app/1466060) | 30,79€ | -30 % | 43,99€ | textes | 02/01/2026 |
@@ -116,7 +121,6 @@
 | [Broken Reality 2000](https://store.steampowered.com/app/2133850) | 15,49€ |  |  | non | 15/08/2026 |
 | [Bye Sweet Carole](https://store.steampowered.com/app/2428980) | 24,99€ |  |  | textes | 19/10/2025 |
 | [Cairn](https://store.steampowered.com/app/1588550) | 29,99€ |  |  | textes | 30/05/2025 |
-| [CARIMARA: Beneath the forlorn limbs](https://store.steampowered.com/app/3570370) | 4,99€ |  |  | textes + voix | 28/06/2026 |
 | [Carly and the Reaperman - Escape from the Underworld](https://store.steampowered.com/app/547480) | 16,79€ |  |  | textes | 02/01/2026 |
 | [Cartel Tycoon](https://store.steampowered.com/app/1220140) | 28,99€ |  |  | textes | 28/05/2025 |
 | [Cassette Beasts](https://store.steampowered.com/app/1321440) | 19,99€ |  |  | textes | 22/10/2025 |
@@ -171,7 +175,6 @@
 | [Dwarf Fortress](https://store.steampowered.com/app/975370) | 30,49€ |  |  | non | 08/06/2026 |
 | [Dying Light](https://store.steampowered.com/app/239140) | 24,99€ |  |  | textes + voix | 22/04/2025 |
 | [Echoes of Aincrad](https://store.steampowered.com/app/2244210) | 69,99€ |  |  | textes | 18/06/2026 |
-| [Eclipsium](https://store.steampowered.com/app/2419670) | 12,79€ |  |  | textes | 04/01/2026 |
 | [Eco](https://store.steampowered.com/app/382310) | 28,99€ |  |  | textes | 18/08/2026 |
 | [Eiyuden Chronicle: Hundred Heroes](https://store.steampowered.com/app/1658280) | 49,99€ |  |  | textes | 31/08/2025 |
 | [ELDEN RING NIGHTREIGN](https://store.steampowered.com/app/2622380) | 39,99€ |  |  | textes | 31/12/2024 |
@@ -195,7 +198,6 @@
 | [FINAL FANTASY XV WINDOWS EDITION](https://store.steampowered.com/app/637650) | 34,99€ |  |  | textes + voix | 07/04/2025 |
 | [FlyKnight Enhanced Edition](https://store.steampowered.com/app/3108510) | 5,95€ |  |  | textes | 07/06/2026 |
 | [Forager](https://store.steampowered.com/app/751780) | 19,99€ |  |  | textes | 31/12/2025 |
-| [Forever Skies](https://store.steampowered.com/app/1641960) | 28,99€ |  |  | textes | 09/06/2025 |
 | [Forgive Me Father 2](https://store.steampowered.com/app/2272250) | 24,99€ |  |  | textes | 19/08/2025 |
 | [Foundation](https://store.steampowered.com/app/690830) | 33,99€ |  |  | textes | 23/05/2026 |
 | [Foxhole](https://store.steampowered.com/app/505460) | 24,99€ |  |  | textes + voix | 08/05/2026 |
@@ -267,7 +269,6 @@
 | [Little Nightmares III](https://store.steampowered.com/app/1392860) | 39,99€ |  |  | textes | 12/06/2024 |
 | [Little Sim World](https://store.steampowered.com/app/1429880) | 15,99€ |  |  | textes + voix | 18/08/2026 |
 | [LIVE A LIVE](https://store.steampowered.com/app/2014380) | 49,99€ |  |  | textes | 31/08/2025 |
-| [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920) | 22,99€ |  |  | textes | 29/03/2026 |
 | [Lorn's Lure](https://store.steampowered.com/app/1417930) | 12,99€ |  |  | textes | 28/06/2026 |
 | [Lou's Lagoon](https://store.steampowered.com/app/2100020) | 24,99€ |  |  | textes | 26/08/2026 |
 | [Luma Island](https://store.steampowered.com/app/2408820) | 19,99€ |  |  | textes | 23/11/2025 |
@@ -286,7 +287,6 @@
 | [Moldwasher](https://store.steampowered.com/app/3688130) | 6,39€ |  |  | textes | 29/07/2026 |
 | [Moonlight Peaks](https://store.steampowered.com/app/2209900) | 34,99€ |  |  | non | 12/07/2026 |
 | [MOUSE: P.I. For Hire](https://store.steampowered.com/app/2416450) | 29,99€ |  |  | textes | 30/10/2025 |
-| [Mouthwashing](https://store.steampowered.com/app/2475490) | 12,79€ |  |  | textes | 15/06/2026 |
 | [My Friendly Neighborhood](https://store.steampowered.com/app/1574260) | 28,99€ |  |  | textes | 07/08/2025 |
 | [My Little Life](https://store.steampowered.com/app/2834600) | 5,89€ |  |  | textes + voix | 30/03/2026 |
 | [MySims™](https://store.steampowered.com/app/3328900) | 39,99€ |  |  | textes | 25/08/2026 |
@@ -460,6 +460,8 @@
 | Jeu | Deux dernières semaines | Total |
 |---|---|---|
 | Paralives | 1,9 h | 1,9 h |
+| Fallout 4 | 1 min | 117,8 h |
+| Potion Craft: Alchemist Simulator | 1 min | 2 min |
 
 ## Jeux lancés (du plus joué au moins joué)
 
@@ -470,7 +472,7 @@
 | Trove | 227,3 h | 17 min | 28/07/2025 |
 | Project Zomboid | 126,5 h | 3,9 h | 13/07/2026 |
 | The Forest | 125,3 h | — | 09/07/2022 |
-| Fallout 4 | 117,8 h | 13,0 h | 19/11/2025 |
+| Fallout 4 | 117,8 h | 13,0 h | 20/10/2026 |
 | Unturned | 115,5 h | — | 17/03/2024 |
 | Arma 3 | 97,5 h | — | 22/02/2017 |
 | Just Cause 3 | 94,4 h | 25 min | 18/05/2025 |
@@ -668,10 +670,10 @@
 | Divinity: Original Sin 2 | 5 min | 5 min | 05/01/2026 |
 | STAR WARS™ Starfighter™ | 4 min | — | 01/05/2016 |
 | Yakuza: Like a Dragon | 4 min | 4 min | 08/07/2026 |
+| Potion Craft: Alchemist Simulator | 2 min | 2 min | 20/10/2026 |
 | SEGA Mega Drive & Genesis Classics | 1 min | — | 27/05/2024 |
 | Arma: Cold War Assault Remastered | 1 min | — | 02/04/2015 |
 | Far Cry® 3 | 1 min | 1 min | 16/09/2026 |
-| Potion Craft: Alchemist Simulator | 1 min | 1 min | 23/09/2026 |
 
 ## Jamais lancés
 
