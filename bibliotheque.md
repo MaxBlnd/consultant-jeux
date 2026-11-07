@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 06/11/2026 à 13:26 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 07/11/2026 à 12:22 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -20,7 +20,6 @@
 | [Eliosi's Hunt](https://store.steampowered.com/app/494700) | 1,46€ | -85 % | 9,75€ | non | 19/08/2025 |
 | [Pathfinder: Kingmaker — Enhanced Plus Edition](https://store.steampowered.com/app/640820) | 3,59€ | -82 % | 19,99€ | textes | 28/03/2026 |
 | [A Story About My Uncle](https://store.steampowered.com/app/278360) | 2,99€ | -80 % | 14,99€ | textes | 17/04/2025 |
-| [Tomb Raider IV-VI Remastered](https://store.steampowered.com/app/2525380) | 5,79€ | -80 % | 28,99€ | textes + voix | 02/01/2026 |
 | [Monster Sanctuary](https://store.steampowered.com/app/814370) | 4,99€ | -75 % | 19,99€ | textes | 22/10/2025 |
 | [Operation: Tango](https://store.steampowered.com/app/1335790) | 4,87€ | -75 % | 19,50€ | textes + voix | 25/11/2025 |
 | [Tom Clancy’s The Division® 2](https://store.steampowered.com/app/2221490) | 7,49€ | -75 % | 29,99€ | textes + voix | 06/05/2025 |
@@ -39,11 +38,12 @@
 | [Escape Simulator](https://store.steampowered.com/app/1435790) | 8,49€ | -50 % | 16,99€ | textes + voix | 01/08/2026 |
 | [Legends of the Round Table](https://store.steampowered.com/app/2387040) | 14,49€ | -50 % | 28,99€ | textes + voix | 12/11/2025 |
 | [Rogue Point](https://store.steampowered.com/app/1843840) | 9,99€ | -50 % | 19,99€ | textes | 02/01/2026 |
-| [Storm Seas](https://store.steampowered.com/app/3905530) | 7,39€ | -50 % | 14,79€ | textes | 04/08/2026 |
 | [Teardown](https://store.steampowered.com/app/1167630) | 14,99€ | -50 % | 29,99€ | textes | 29/06/2024 |
 | [Trails in the Sky 1st Chapter](https://store.steampowered.com/app/3375780) | 29,99€ | -50 % | 59,99€ | textes | 31/08/2025 |
 | [TUNIC](https://store.steampowered.com/app/553420) | 14,49€ | -50 % | 28,99€ | textes + voix | 30/07/2026 |
+| [Goofy Gorillas](https://store.steampowered.com/app/2627570) | 4,28€ | -45 % | 7,79€ | non | 07/04/2025 |
 | [Tower Unite](https://store.steampowered.com/app/394690) | 10,72€ | -45 % | 19,50€ | non | 22/04/2025 |
+| [The Walking Trade](https://store.steampowered.com/app/3398110) | 6,37€ | -42 % | 10,99€ | textes | 15/08/2026 |
 | [ASKA](https://store.steampowered.com/app/1898300) | 14,99€ | -40 % | 24,99€ | textes | 29/06/2024 |
 | [DRAGON BALL: Sparking! ZERO](https://store.steampowered.com/app/1790600) | 29,99€ | -40 % | 49,99€ | textes | 22/04/2025 |
 | [Echoes of Aincrad](https://store.steampowered.com/app/2244210) | 41,99€ | -40 % | 69,99€ | textes | 18/06/2026 |
@@ -198,7 +198,6 @@
 | [Ghostrunner](https://store.steampowered.com/app/1139900) | 29,99€ |  |  | textes | 15/04/2025 |
 | [gogh: Focus with Your Avatar](https://store.steampowered.com/app/3213850) | 11,79€ |  |  | textes | 09/07/2026 |
 | [Golden Light](https://store.steampowered.com/app/1245430) | 19,99€ |  |  | textes | 29/06/2026 |
-| [Goofy Gorillas](https://store.steampowered.com/app/2627570) | 7,79€ |  |  | non | 07/04/2025 |
 | [Gothic 1 Remake](https://store.steampowered.com/app/1297900) | 49,99€ |  |  | textes | 08/06/2026 |
 | [Gothic 3 Classic](https://store.steampowered.com/app/39500) | 19,99€ |  |  | textes + voix | 26/03/2026 |
 | [GRANDIA HD Remaster](https://store.steampowered.com/app/1034860) | 16,79€ |  |  | textes | 19/04/2026 |
@@ -384,6 +383,7 @@
 | [Stellaris](https://store.steampowered.com/app/281990) | 49,99€ |  |  | textes | 18/05/2026 |
 | [Stoneshard](https://store.steampowered.com/app/625960) | 24,99€ |  |  | textes | 15/06/2025 |
 | [Storebound](https://store.steampowered.com/app/3417410) | 7,99€ |  |  | textes | 21/12/2025 |
+| [Storm Seas](https://store.steampowered.com/app/3905530) | 14,79€ |  |  | textes | 04/08/2026 |
 | [Stray](https://store.steampowered.com/app/1332010) | 28,49€ |  |  | textes | 13/11/2025 |
 | [Street Fighter™ 6](https://store.steampowered.com/app/1364780) | 39,99€ |  |  | textes | 02/01/2026 |
 | [Stronghold 4](https://store.steampowered.com/app/2153760) | Pas encore sorti |  |  | textes | 07/06/2026 |
@@ -416,12 +416,12 @@
 | [The Roottrees are Dead](https://store.steampowered.com/app/2754380) | 19,50€ |  |  | textes | 21/12/2025 |
 | [The Sims™ 3](https://store.steampowered.com/app/47890) | 19,99€ |  |  | textes | 07/04/2025 |
 | [The Universim](https://store.steampowered.com/app/352720) | 27,99€ |  |  | textes | 16/07/2024 |
-| [The Walking Trade](https://store.steampowered.com/app/3398110) | 10,99€ |  |  | textes | 15/08/2026 |
 | [The Wayward Realms](https://store.steampowered.com/app/1685310) | Pas encore sorti |  |  | non | 22/03/2026 |
 | [The Wolf Among Us](https://store.steampowered.com/app/250320) | 14,99€ |  |  | non | 08/08/2025 |
 | [There Are No Ghosts at the Grand](https://store.steampowered.com/app/3725190) | Pas encore sorti |  |  | textes | 13/05/2026 |
 | [TIME STRIKE](https://store.steampowered.com/app/3427330) | Pas encore sorti |  |  | non | 07/06/2026 |
 | [Tinykin](https://store.steampowered.com/app/1599020) | 24,50€ |  |  | textes | 28/03/2026 |
+| [Tomb Raider IV-VI Remastered](https://store.steampowered.com/app/2525380) | 28,99€ |  |  | textes + voix | 02/01/2026 |
 | [Tomo: Endless Blue](https://store.steampowered.com/app/3301510) | Pas encore sorti |  |  | textes | 16/09/2026 |
 | [Total War: ROME REMASTERED](https://store.steampowered.com/app/885970) | 29,99€ |  |  | textes + voix | 23/05/2026 |
 | [Transport INC](https://store.steampowered.com/app/936500) | 9,99€ |  |  | textes | 27/07/2025 |
