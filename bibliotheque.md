@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 07/11/2026 à 12:22 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 08/11/2026 à 12:35 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -56,7 +56,6 @@
 | [OFF](https://store.steampowered.com/app/3339880) | 9,76€ | -34 % | 14,79€ | textes | 20/08/2025 |
 | [The Precinct](https://store.steampowered.com/app/490110) | 20,09€ | -33 % | 29,99€ | textes | 29/06/2024 |
 | [Roboquest](https://store.steampowered.com/app/692890) | 16,99€ | -32 % | 24,99€ | textes | 01/08/2026 |
-| [Cairn](https://store.steampowered.com/app/1588550) | 20,99€ | -30 % | 29,99€ | textes | 30/05/2025 |
 | [Escape Simulator 2](https://store.steampowered.com/app/2879840) | 11,89€ | -30 % | 16,99€ | textes | 31/05/2026 |
 | [Labyrinth Of The Demon King](https://store.steampowered.com/app/1804010) | 13,65€ | -30 % | 19,50€ | textes | 22/03/2026 |
 | [Little Sim World](https://store.steampowered.com/app/1429880) | 11,19€ | -30 % | 15,99€ | textes + voix | 18/08/2026 |
@@ -104,6 +103,7 @@
 | [Blood Rush](https://store.steampowered.com/app/2435870) | 14,49€ |  |  | textes | 21/12/2025 |
 | [BOMBANANA!](https://store.steampowered.com/app/4656000) | 8,15€ |  |  | textes | 03/09/2026 |
 | [Bye Sweet Carole](https://store.steampowered.com/app/2428980) | 24,99€ |  |  | textes | 19/10/2025 |
+| [Cairn](https://store.steampowered.com/app/1588550) | 29,99€ |  |  | textes | 30/05/2025 |
 | [CARIMARA: Beneath the forlorn limbs](https://store.steampowered.com/app/3570370) | 4,99€ |  |  | textes + voix | 28/06/2026 |
 | [Carly and the Reaperman - Escape from the Underworld](https://store.steampowered.com/app/547480) | 16,79€ |  |  | textes | 02/01/2026 |
 | [Cartel Tycoon](https://store.steampowered.com/app/1220140) | 28,99€ |  |  | textes | 28/05/2025 |
