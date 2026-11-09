@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 08/11/2026 à 12:35 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 09/11/2026 à 14:13 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -38,7 +38,6 @@
 | [Escape Simulator](https://store.steampowered.com/app/1435790) | 8,49€ | -50 % | 16,99€ | textes + voix | 01/08/2026 |
 | [Legends of the Round Table](https://store.steampowered.com/app/2387040) | 14,49€ | -50 % | 28,99€ | textes + voix | 12/11/2025 |
 | [Rogue Point](https://store.steampowered.com/app/1843840) | 9,99€ | -50 % | 19,99€ | textes | 02/01/2026 |
-| [Teardown](https://store.steampowered.com/app/1167630) | 14,99€ | -50 % | 29,99€ | textes | 29/06/2024 |
 | [Trails in the Sky 1st Chapter](https://store.steampowered.com/app/3375780) | 29,99€ | -50 % | 59,99€ | textes | 31/08/2025 |
 | [TUNIC](https://store.steampowered.com/app/553420) | 14,49€ | -50 % | 28,99€ | textes + voix | 30/07/2026 |
 | [Goofy Gorillas](https://store.steampowered.com/app/2627570) | 4,28€ | -45 % | 7,79€ | non | 07/04/2025 |
@@ -396,6 +395,7 @@
 | [SurrounDead](https://store.steampowered.com/app/1645820) | 11,79€ |  |  | non | 27/05/2025 |
 | [Sword Art Online: Fatal Bullet](https://store.steampowered.com/app/626690) | 19,99€ |  |  | textes | 04/05/2021 |
 | [Tainted Grail: The Fall of Avalon](https://store.steampowered.com/app/1466060) | 43,99€ |  |  | textes | 02/01/2026 |
+| [Teardown](https://store.steampowered.com/app/1167630) | 29,99€ |  |  | textes | 29/06/2024 |
 | [TEKKEN 7](https://store.steampowered.com/app/389730) | 39,99€ |  |  | textes | 02/01/2026 |
 | [Tenebyss](https://store.steampowered.com/app/3516100) | Pas encore sorti |  |  | non | 05/01/2026 |
 | [The Adventures of Sir Kicksalot](https://store.steampowered.com/app/2629230) | 9,75€ |  |  | textes | 16/05/2026 |
