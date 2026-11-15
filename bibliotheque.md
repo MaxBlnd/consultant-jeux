@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 14/11/2026 à 12:49 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 15/11/2026 à 13:14 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -27,7 +27,7 @@
 | [Seers Isle](https://store.steampowered.com/app/738650) | 4,19€ | -70 % | 13,99€ | textes | 11/07/2026 |
 | [JDM: Japanese Drift Master](https://store.steampowered.com/app/1153410) | 11,89€ | -65 % | 33,99€ | textes | 22/05/2025 |
 | [Age of Wonders 4](https://store.steampowered.com/app/1669000) | 19,99€ | -60 % | 49,99€ | textes | 21/05/2026 |
-| [The Alters](https://store.steampowered.com/app/1601570) | 15,74€ | -55 % | 34,99€ | textes | 29/06/2024 |
+| [Summa Expeditionis](https://store.steampowered.com/app/2056200) | 7,99€ | -60 % | 19,99€ | textes | 07/05/2026 |
 | [Borderlands 4](https://store.steampowered.com/app/1285190) | 34,99€ | -50 % | 69,99€ | textes + voix | 09/04/2025 |
 | [Rogue Point](https://store.steampowered.com/app/1843840) | 9,99€ | -50 % | 19,99€ | textes | 02/01/2026 |
 | [Salt 2: Shores of Gold](https://store.steampowered.com/app/1574900) | 8,39€ | -50 % | 16,79€ | textes | 07/04/2025 |
@@ -35,14 +35,15 @@
 | [Trails in the Sky 1st Chapter](https://store.steampowered.com/app/3375780) | 29,99€ | -50 % | 59,99€ | textes | 31/08/2025 |
 | [Coridden](https://store.steampowered.com/app/1656930) | 10,72€ | -45 % | 19,50€ | textes | 21/12/2025 |
 | [The Walking Trade](https://store.steampowered.com/app/3398110) | 6,37€ | -42 % | 10,99€ | textes | 15/08/2026 |
-| [Lou's Lagoon](https://store.steampowered.com/app/2100020) | 14,99€ | -40 % | 24,99€ | textes | 26/08/2026 |
 | [The Crust](https://store.steampowered.com/app/1465470) | 17,99€ | -40 % | 29,99€ | textes | 16/07/2024 |
+| [Arctic Awakening](https://store.steampowered.com/app/1275550) | 15,99€ | -36 % | 24,99€ | textes | 29/06/2024 |
 | [Batomon Showdown](https://store.steampowered.com/app/4557380) | 10,06€ | -35 % | 15,49€ | textes | 17/09/2026 |
 | [Dorfromantik](https://store.steampowered.com/app/1455840) | 8,44€ | -35 % | 12,99€ | textes | 05/01/2026 |
 | [My Little Life](https://store.steampowered.com/app/2834600) | 3,82€ | -35 % | 5,89€ | textes + voix | 30/03/2026 |
 | [The Precinct](https://store.steampowered.com/app/490110) | 20,09€ | -33 % | 29,99€ | textes | 29/06/2024 |
 | [Lay of the Land](https://store.steampowered.com/app/2776090) | 14,34€ | -30 % | 20,49€ | textes | 29/03/2026 |
 | [Urban Myth Dissolution Center](https://store.steampowered.com/app/2089600) | 12,24€ | -30 % | 17,49€ | textes | 13/05/2025 |
+| [Chill Pulse](https://store.steampowered.com/app/2826180) | 3,69€ | -26 % | 4,99€ | textes | 22/04/2025 |
 | [Moldwasher](https://store.steampowered.com/app/3688130) | 4,79€ | -25 % | 6,39€ | textes | 29/07/2026 |
 | [Dwarf Fortress](https://store.steampowered.com/app/975370) | 24,39€ | -20 % | 30,49€ | non | 08/06/2026 |
 | [LumenTale: Memories of Trey](https://store.steampowered.com/app/2261430) | 19,99€ | -20 % | 24,99€ | textes | 26/05/2026 |
@@ -62,7 +63,6 @@
 | [American Arcadia](https://store.steampowered.com/app/1249040) | 19,50€ |  |  | textes | 09/04/2025 |
 | [Among Ashes](https://store.steampowered.com/app/2430900) | 14,79€ |  |  | textes | 22/03/2026 |
 | [Anno 1701 History Edition](https://store.steampowered.com/app/2820140) | 9,99€ |  |  | textes + voix | 23/05/2026 |
-| [Arctic Awakening](https://store.steampowered.com/app/1275550) | 24,99€ |  |  | textes | 29/06/2024 |
 | [Arx Fatalis](https://store.steampowered.com/app/1700) | 4,99€ |  |  | textes | 22/03/2026 |
 | [ASCII Dungeon Crawl](https://store.steampowered.com/app/4984210) | Pas encore sorti |  |  | non | 16/10/2026 |
 | [ASKA](https://store.steampowered.com/app/1898300) | 24,99€ |  |  | textes | 29/06/2024 |
@@ -95,7 +95,6 @@
 | [Chained Echoes](https://store.steampowered.com/app/1229240) | 24,99€ |  |  | textes | 31/08/2025 |
 | [Chants of Sennaar](https://store.steampowered.com/app/1931770) | 19,99€ |  |  | textes | 30/07/2026 |
 | [Chernobylite Complete Edition](https://store.steampowered.com/app/1016800) | 29,99€ |  |  | textes | 24/06/2026 |
-| [Chill Pulse](https://store.steampowered.com/app/2826180) | 4,99€ |  |  | textes | 22/04/2025 |
 | [Chronicon](https://store.steampowered.com/app/375480) | 13,79€ |  |  | textes | 02/01/2026 |
 | [Clair Obscur: Expedition 33](https://store.steampowered.com/app/1903340) | 49,99€ |  |  | textes + voix | 23/04/2025 |
 | [clickyland](https://store.steampowered.com/app/2751050) | 4,99€ |  |  | textes | 05/07/2024 |
@@ -251,6 +250,7 @@
 | [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920) | 22,99€ |  |  | textes | 29/03/2026 |
 | [Lorn's Lure](https://store.steampowered.com/app/1417930) | 12,99€ |  |  | textes | 28/06/2026 |
 | [Lost Records: Bloom & Rage](https://store.steampowered.com/app/1902960) | 39,99€ |  |  | textes + voix | 15/08/2026 |
+| [Lou's Lagoon](https://store.steampowered.com/app/2100020) | 24,99€ |  |  | textes | 26/08/2026 |
 | [Luma Island](https://store.steampowered.com/app/2408820) | 19,99€ |  |  | textes | 23/11/2025 |
 | [Lunacid](https://store.steampowered.com/app/1745510) | 13,79€ |  |  | non | 22/03/2026 |
 | [Mafia: Definitive Edition](https://store.steampowered.com/app/1030840) | 39,99€ |  |  | textes + voix | 08/08/2025 |
@@ -384,7 +384,6 @@
 | [Stronghold 4](https://store.steampowered.com/app/2153760) | Pas encore sorti |  |  | textes | 07/06/2026 |
 | [Subliminal](https://store.steampowered.com/app/2300840) | 9,75€ |  |  | textes | 19/11/2025 |
 | [SULFUR](https://store.steampowered.com/app/2124120) | 29,99€ |  |  | textes | 07/06/2026 |
-| [Summa Expeditionis](https://store.steampowered.com/app/2056200) | 19,99€ |  |  | textes | 07/05/2026 |
 | [Sunkissed City](https://store.steampowered.com/app/2175840) | Pas encore sorti |  |  | non | 20/03/2026 |
 | [SUPER DRAGON BALL HEROES WORLD MISSION](https://store.steampowered.com/app/798510) | 49,99€ |  |  | textes | 26/08/2025 |
 | [Super Kiwi 64](https://store.steampowered.com/app/1949960) | 2,99€ |  |  | non | 22/06/2026 |
@@ -395,6 +394,7 @@
 | [TEKKEN 7](https://store.steampowered.com/app/389730) | 39,99€ |  |  | textes | 02/01/2026 |
 | [Tenebyss](https://store.steampowered.com/app/3516100) | Pas encore sorti |  |  | non | 05/01/2026 |
 | [The Adventures of Sir Kicksalot](https://store.steampowered.com/app/2629230) | 9,75€ |  |  | textes | 16/05/2026 |
+| [The Alters](https://store.steampowered.com/app/1601570) | 34,99€ |  |  | textes | 29/06/2024 |
 | [The Backrooms 1998 - Found Footage Survival Horror Game](https://store.steampowered.com/app/1985930) | 8,19€ |  |  | non | 31/12/2025 |
 | [The Blood of Dawnwalker](https://store.steampowered.com/app/3751260) | 69,99€ |  |  | textes + voix | 13/09/2026 |
 | [The Break-In](https://store.steampowered.com/app/1397390) | 19,50€ |  |  | non | 02/01/2026 |
@@ -461,10 +461,7 @@
 
 ## Joués ces deux dernières semaines
 
-| Jeu | Deux dernières semaines | Total |
-|---|---|---|
-| The Floor Above | 1,6 h | 2,8 h |
-| Moon Sweepers | 1 min | 1 min |
+Aucun jeu lancé ces deux dernières semaines.
 
 ## Jeux lancés (du plus joué au moins joué)
 
