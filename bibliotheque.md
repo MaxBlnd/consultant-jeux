@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 15/11/2026 à 13:14 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 16/11/2026 à 14:06 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -9,7 +9,7 @@
 - Jamais lancés : 100
 - Lancés moins d'une heure : 59
 - Temps de jeu total : 3951,0 h
-- Jeux dans la liste de souhaits : 443
+- Jeux dans la liste de souhaits : 444
 
 ## Liste de souhaits
 
@@ -19,6 +19,7 @@
 | [Hitman: Absolution™](https://store.steampowered.com/app/203140) | 1,99€ | -90 % | 19,99€ | textes + voix | 02/02/2025 |
 | [Puppet House](https://store.steampowered.com/app/1707710) | 2,54€ | -85 % | 16,99€ | textes | 22/03/2026 |
 | [Far Cry® 4](https://store.steampowered.com/app/298110) | 5,99€ | -80 % | 29,99€ | textes + voix | 26/02/2026 |
+| [The Last Hero of Nostalgaia](https://store.steampowered.com/app/1766100) | 4,99€ | -80 % | 24,99€ | textes | 15/11/2026 |
 | [Tinykin](https://store.steampowered.com/app/1599020) | 4,90€ | -80 % | 24,50€ | textes | 28/03/2026 |
 | [Cartel Tycoon](https://store.steampowered.com/app/1220140) | 7,24€ | -75 % | 28,99€ | textes | 28/05/2025 |
 | [Euro Truck Simulator 2](https://store.steampowered.com/app/227300) | 4,99€ | -75 % | 19,99€ | textes | 22/06/2025 |
@@ -38,18 +39,17 @@
 | [The Crust](https://store.steampowered.com/app/1465470) | 17,99€ | -40 % | 29,99€ | textes | 16/07/2024 |
 | [Arctic Awakening](https://store.steampowered.com/app/1275550) | 15,99€ | -36 % | 24,99€ | textes | 29/06/2024 |
 | [Batomon Showdown](https://store.steampowered.com/app/4557380) | 10,06€ | -35 % | 15,49€ | textes | 17/09/2026 |
-| [Dorfromantik](https://store.steampowered.com/app/1455840) | 8,44€ | -35 % | 12,99€ | textes | 05/01/2026 |
 | [My Little Life](https://store.steampowered.com/app/2834600) | 3,82€ | -35 % | 5,89€ | textes + voix | 30/03/2026 |
 | [The Precinct](https://store.steampowered.com/app/490110) | 20,09€ | -33 % | 29,99€ | textes | 29/06/2024 |
 | [Lay of the Land](https://store.steampowered.com/app/2776090) | 14,34€ | -30 % | 20,49€ | textes | 29/03/2026 |
 | [Urban Myth Dissolution Center](https://store.steampowered.com/app/2089600) | 12,24€ | -30 % | 17,49€ | textes | 13/05/2025 |
 | [Chill Pulse](https://store.steampowered.com/app/2826180) | 3,69€ | -26 % | 4,99€ | textes | 22/04/2025 |
 | [Moldwasher](https://store.steampowered.com/app/3688130) | 4,79€ | -25 % | 6,39€ | textes | 29/07/2026 |
+| [Dinkum](https://store.steampowered.com/app/1062520) | 15,60€ | -20 % | 19,50€ | textes | 20/03/2026 |
 | [Dwarf Fortress](https://store.steampowered.com/app/975370) | 24,39€ | -20 % | 30,49€ | non | 08/06/2026 |
 | [LumenTale: Memories of Trey](https://store.steampowered.com/app/2261430) | 19,99€ | -20 % | 24,99€ | textes | 26/05/2026 |
 | [Mistfall Hunter](https://store.steampowered.com/app/3282300) | 19,99€ | -20 % | 24,99€ | textes | 31/07/2026 |
 | [Ne triez jamais par couleur](https://store.steampowered.com/app/4876650) | 7,75€ | -20 % | 9,69€ | textes | 11/11/2026 |
-| [Broken Reality 2000](https://store.steampowered.com/app/2133850) | 13,94€ | -10 % | 15,49€ | non | 15/08/2026 |
 | [(the) Gnorp Apologue](https://store.steampowered.com/app/1473350) | 5,69€ |  |  | textes | 29/06/2024 |
 | [A Hat in Time](https://store.steampowered.com/app/253230) | 28,99€ |  |  | textes | 21/01/2023 |
 | [A Story About My Uncle](https://store.steampowered.com/app/278360) | 14,99€ |  |  | textes | 17/04/2025 |
@@ -84,6 +84,7 @@
 | [Big Hops Together](https://store.steampowered.com/app/1221480) | 19,50€ |  |  | non | 18/01/2026 |
 | [Blood Rush](https://store.steampowered.com/app/2435870) | 14,49€ |  |  | textes | 21/12/2025 |
 | [BOMBANANA!](https://store.steampowered.com/app/4656000) | 8,15€ |  |  | textes | 03/09/2026 |
+| [Broken Reality 2000](https://store.steampowered.com/app/2133850) | 15,49€ |  |  | non | 15/08/2026 |
 | [Bye Sweet Carole](https://store.steampowered.com/app/2428980) | 24,99€ |  |  | textes | 19/10/2025 |
 | [Cairn](https://store.steampowered.com/app/1588550) | 29,99€ |  |  | textes | 30/05/2025 |
 | [CARIMARA: Beneath the forlorn limbs](https://store.steampowered.com/app/3570370) | 4,99€ |  |  | textes + voix | 28/06/2026 |
@@ -122,11 +123,11 @@
 | [Demonologist](https://store.steampowered.com/app/1929610) | 19,50€ |  |  | textes | 08/08/2025 |
 | [Demonschool](https://store.steampowered.com/app/1900250) | 21,99€ |  |  | textes | 07/06/2026 |
 | [Detroit: Become Human](https://store.steampowered.com/app/1222140) | 39,99€ |  |  | textes + voix | 06/06/2025 |
-| [Dinkum](https://store.steampowered.com/app/1062520) | 19,50€ |  |  | textes | 20/03/2026 |
 | [Disgaea 5 Complete](https://store.steampowered.com/app/803600) | 39,99€ |  |  | textes | 31/12/2025 |
 | [Dispatch](https://store.steampowered.com/app/2592160) | 28,99€ |  |  | textes | 16/11/2025 |
 | [Dome Keeper](https://store.steampowered.com/app/1637320) | 17,99€ |  |  | textes | 17/09/2025 |
 | [DOOM Eternal](https://store.steampowered.com/app/782330) | 29,99€ |  |  | textes + voix | 05/01/2026 |
+| [Dorfromantik](https://store.steampowered.com/app/1455840) | 12,99€ |  |  | textes | 05/01/2026 |
 | [DRAGON BALL XENOVERSE 2](https://store.steampowered.com/app/454650) | 19,99€ |  |  | textes | 25/06/2026 |
 | [DRAGON BALL XENOVERSE 3](https://store.steampowered.com/app/1857810) | Pas encore sorti |  |  | textes | 25/06/2026 |
 | [DRAGON BALL: Sparking! ZERO](https://store.steampowered.com/app/1790600) | 49,99€ |  |  | textes | 22/04/2025 |
