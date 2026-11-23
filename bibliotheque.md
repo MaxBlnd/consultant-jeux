@@ -1,6 +1,6 @@
 # Bibliothèque Steam
 
-> Générée automatiquement le 22/11/2026 à 13:54 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
+> Générée automatiquement le 23/11/2026 à 16:07 (heure de Paris). Ne pas modifier à la main : le fichier est réécrit à chaque synchronisation.
 > Les prix de la liste de souhaits datent de cette génération : les revérifier avant de les citer.
 
 ## Résumé
@@ -16,7 +16,6 @@
 | Jeu | Prix actuel | Réduction | Prix normal | Français | Ajouté le |
 |---|---|---|---|---|---|
 | [Old World](https://store.steampowered.com/app/597180) | 3,59€ | -91 % | 39,99€ | textes | 23/05/2026 |
-| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 2,99€ | -90 % | 29,99€ | textes | 24/08/2026 |
 | [BALAN WONDERWORLD](https://store.steampowered.com/app/1341050) | 5,99€ | -85 % | 39,99€ | textes | 30/06/2026 |
 | [FINAL FANTASY VII REBIRTH](https://store.steampowered.com/app/2909400) | 7,49€ | -85 % | 49,99€ | textes + voix | 08/08/2025 |
 | [Mass Effect™ Édition Légendaire](https://store.steampowered.com/app/1328670) | 8,99€ | -85 % | 59,99€ | textes + voix | 11/01/2026 |
@@ -27,6 +26,7 @@
 | [Unravel Two](https://store.steampowered.com/app/1225570) | 2,99€ | -85 % | 19,99€ | textes | 21/09/2025 |
 | [A Way Out](https://store.steampowered.com/app/1222700) | 5,99€ | -80 % | 29,99€ | textes | 26/11/2025 |
 | [Far Cry® 4](https://store.steampowered.com/app/298110) | 5,99€ | -80 % | 29,99€ | textes + voix | 26/02/2026 |
+| [Genesis Noir](https://store.steampowered.com/app/735290) | 2,99€ | -80 % | 14,99€ | textes | 22/03/2026 |
 | [Grim Dawn](https://store.steampowered.com/app/219990) | 5,19€ | -80 % | 25,99€ | textes | 28/06/2026 |
 | [Life is Strange Remastered](https://store.steampowered.com/app/1265920) | 7,99€ | -80 % | 39,99€ | textes | 06/06/2025 |
 | [Marco et le dragon-galaxie](https://store.steampowered.com/app/1202540) | 3,90€ | -80 % | 19,50€ | non | 04/05/2021 |
@@ -153,6 +153,7 @@
 | [Chill Pulse](https://store.steampowered.com/app/2826180) | 4,99€ |  |  | textes | 22/04/2025 |
 | [Chronicon](https://store.steampowered.com/app/375480) | 13,79€ |  |  | textes | 02/01/2026 |
 | [Clair Obscur: Expedition 33](https://store.steampowered.com/app/1903340) | 49,99€ |  |  | textes + voix | 23/04/2025 |
+| [Clash: Artifacts of Chaos](https://store.steampowered.com/app/1430680) | 19,99€ |  |  | textes | 24/08/2026 |
 | [Clock Tower: Rewind](https://store.steampowered.com/app/2794770) | 19,50€ |  |  | textes | 25/04/2025 |
 | [Color Fear](https://store.steampowered.com/app/2831170) | 9,75€ |  |  | non | 26/07/2026 |
 | [CONTROL Ultimate Edition](https://store.steampowered.com/app/870780) | 39,99€ |  |  | textes + voix | 05/10/2025 |
@@ -224,7 +225,6 @@
 | [Garfield - Escape from Monday](https://store.steampowered.com/app/3932790) | 24,99€ |  |  | textes + voix | 24/09/2026 |
 | [Gas Station Simulator](https://store.steampowered.com/app/1149620) | 19,50€ |  |  | textes | 21/09/2026 |
 | [Gedonia 2](https://store.steampowered.com/app/2566340) | 14,79€ |  |  | non | 31/12/2025 |
-| [Genesis Noir](https://store.steampowered.com/app/735290) | 14,99€ |  |  | textes | 22/03/2026 |
 | [Ghost Trick: Détective fantôme](https://store.steampowered.com/app/1967430) | 29,99€ |  |  | textes | 22/03/2026 |
 | [Ghostlore](https://store.steampowered.com/app/1783280) | 19,50€ |  |  | textes | 02/01/2026 |
 | [Golden Light](https://store.steampowered.com/app/1245430) | 19,99€ |  |  | textes | 29/06/2026 |
